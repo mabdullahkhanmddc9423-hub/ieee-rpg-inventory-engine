@@ -1,0 +1,14 @@
+Name,Type,Value,Rarity,Extra
+Iron Sword,Weapon,100,Common,20
+Dragon Slayer,Weapon,650,Epic,85
+Health Potion,Potion,45,Common,50
+Mana Elixir,Potion,60,Rare,75
+Obsidian Shield,Armor,350,Rare,40
+Broken Item,Weapon,abc,Rare,10
+Invalid Item
+Staff of Wizardry,Weapon,500,Epic,60
+Leather Boots,Armor,80,Common,15
+Steel Helmet,Armor,150,Rare,25
+Healing Herb,Potion,20,Common,25
+Fire Wand,Weapon,300,Rare,45
+Magic Ring,Armor,400,Epic,30
